@@ -1,0 +1,351 @@
+id_,ship_company_name,crew_members,ship_type,operational_year,No_of_Engines,No_of_Anchor,No_of_navigation_bridge,Navigation_bridge_status,Sonar_Status
+79097,Murphy Group.PLC,48,Hovercraft,18,4,8,Navigator (Radio Wave Radar),All Active,All Active
+77252,"Weiss, Mayo and Thomas.and Sons",48,Livestock carriers,25,1,Dynamic Stablizer,4,All Active,All Active
+78659,"Martinez, Carson and Baldwin.and Sons",58,Gas carriers,15,4,2,4,All Active,Deactivated
+78876,"Martinez, Carson and Baldwin.and Sons",61,Sailboat,28,4,4,5,All Active,All Active
+77786,Miller-Stephens.LLC,33,Submarine,33,1,6,4,Deactivated,Deactivated
+78468,Thompson-Harris.Inc,65,High-speed craft,22,2,2,3,All Active,All Active
+77668,"Martinez, Carson and Baldwin.and Sons",69,Heavy life ships,18,2,Dynamic Stablizer,Navigator (Radio Wave Radar),All Active,Deactivated
+78071,Ramirez-Pearson.Ltd,31,Offshore ships,32,4,2,4,Deactivated,Deactivated
+79481,Hamilton-Howell.Ltd,48,Heavy life ships,34,NPS(Nuclear Purpulsion System),4,Navigator (Radio Wave Radar),Deactivated,All Active
+79703,Murphy Group.PLC,61,Dredgers,20,3,8,6,All Active,Deactivated
+79224,Thompson-Harris.Inc,69,Livestock carriers,30,1,2,Navigator (Radio Wave Radar),Deactivated,All Active
+77955,Walker Inc.LLC,68,Heavy life ships,10,4,2,Navigator (Radio Wave Radar),Deactivated,All Active
+78287,Miller-Stephens.LLC,69,Submarine,23,4,2,4,All Active,All Active
+79565,Smith PLC.PLC,30,Barge,18,3,Dynamic Stablizer,2,Deactivated,Deactivated
+79716,Murphy Group.PLC,42,Dredgers,9,NPS(Nuclear Purpulsion System),6,6,Deactivated,Deactivated
+78120,"Lopez, Wells and Diaz.and Sons",61,Barge,11,3,6,5,All Active,Deactivated
+78219,Walker Inc.LLC,75,Roll-on Roll-Off ships,8,1,2,4,Deactivated,Deactivated
+78300,"Harris, Bishop and Valdez.LLC",66,Livestock carriers,31,NPS(Nuclear Purpulsion System),8,2,All Active,Deactivated
+77435,Taylor Group.LLC,66,Tugs,16,NPS(Nuclear Purpulsion System),8,4,All Active,All Active
+79270,Marshall Ltd.and Sons,46,Tugs,6,3,Dynamic Stablizer,Navigator (Radio Wave Radar),Deactivated,Deactivated
+78586,Smith PLC.PLC,67,Tugs,17,3,4,4,All Active,Deactivated
+78735,"Weiss, Mayo and Thomas.and Sons",72,Container ships,27,1,4,5,Deactivated,All Active
+78078,"Lopez, Wells and Diaz.and Sons",50,Tugs,28,3,8,2,All Active,Deactivated
+77336,"Harris, Bishop and Valdez.LLC",35,Fishing vessels,8,2,Dynamic Stablizer,6,Deactivated,All Active
+79841,Jimenez-Hill.Inc,68,Passenger ships,10,4,Dynamic Stablizer,2,Deactivated,Deactivated
+77011,Marshall Ltd.and Sons,43,Roll-on Roll-Off ships,25,3,8,5,All Active,Deactivated
+77402,Robinson Inc.PLC,64,Roll-on Roll-Off ships,9,NPS(Nuclear Purpulsion System),6,5,Deactivated,All Active
+78097,Marshall Ltd.and Sons,46,Fishing vessels,13,4,4,6,All Active,All Active
+78543,Johnson PLC.PLC,44,Dredgers,20,NPS(Nuclear Purpulsion System),4,Navigator (Radio Wave Radar),All Active,Deactivated
+78642,Smith PLC.PLC,39,Barge,25,4,6,6,Deactivated,Deactivated
+77031,Jimenez-Hill.Inc,61,Tanker ships,10,4,2,6,Deactivated,Deactivated
+79102,Hamilton-Howell.Ltd,49,Hovercraft,10,4,Dynamic Stablizer,5,All Active,Deactivated
+78786,"Martinez, Carson and Baldwin.and Sons",44,Bulk carrier ships,10,2,6,4,All Active,All Active
+79665,Hamilton-Howell.Ltd,65,Barge,25,4,Dynamic Stablizer,6,Deactivated,Deactivated
+78406,Taylor Group.LLC,68,Barge,29,NPS(Nuclear Purpulsion System),8,2,Deactivated,All Active
+77626,Jimenez-Hill.Inc,36,Offshore ships,16,2,4,2,All Active,Deactivated
+79526,Robinson Inc.PLC,61,Roll-on Roll-Off ships,32,NPS(Nuclear Purpulsion System),Dynamic Stablizer,5,All Active,All Active
+77844,Morrison Ltd.Inc,71,Sailboat,8,1,2,5,Deactivated,Deactivated
+78182,Robinson Inc.PLC,51,Roll-on Roll-Off ships,24,2,Dynamic Stablizer,2,Deactivated,Deactivated
+79783,Johnson PLC.PLC,47,High-speed craft,22,4,6,3,All Active,Deactivated
+77695,Robinson Inc.PLC,68,Tanker ships,22,NPS(Nuclear Purpulsion System),2,5,All Active,Deactivated
+77004,Morrison Ltd.Inc,41,Offshore ships,15,1,Dynamic Stablizer,6,All Active,Deactivated
+79454,"Weiss, Mayo and Thomas.and Sons",53,Container ships,13,NPS(Nuclear Purpulsion System),Dynamic Stablizer,6,All Active,All Active
+78173,Walker Inc.LLC,31,Hovercraft,14,3,6,4,All Active,Deactivated
+77007,"Harris, Bishop and Valdez.LLC",34,Submarine,27,NPS(Nuclear Purpulsion System),Dynamic Stablizer,6,Deactivated,Deactivated
+79917,Taylor Group.LLC,41,Container ships,7,NPS(Nuclear Purpulsion System),Dynamic Stablizer,3,All Active,Deactivated
+77193,Robinson Inc.PLC,75,Sailboat,32,NPS(Nuclear Purpulsion System),8,Navigator (Radio Wave Radar),All Active,All Active
+79305,"Lopez, Wells and Diaz.and Sons",38,Container ships,30,2,2,4,Deactivated,All Active
+77522,Johnson PLC.PLC,64,Tanker ships,23,2,2,6,Deactivated,All Active
+79138,Hamilton-Howell.Ltd,75,Container ships,6,2,2,3,All Active,Deactivated
+77565,Ramirez-Pearson.Ltd,32,Heavy life ships,17,2,8,6,Deactivated,Deactivated
+78764,Haas and Sons.Ltd,44,Yacht,7,2,6,2,All Active,Deactivated
+78387,Smith PLC.PLC,55,Yacht,6,3,Dynamic Stablizer,Navigator (Radio Wave Radar),All Active,All Active
+77448,Robinson Inc.PLC,63,Livestock carriers,34,1,4,5,Deactivated,All Active
+77920,"Weiss, Mayo and Thomas.and Sons",64,Hovercraft,30,4,4,5,All Active,All Active
+79861,Thompson-Harris.Inc,65,Sailboat,6,1,6,6,Deactivated,All Active
+77825,Walker Inc.LLC,55,Canoe,25,3,2,4,All Active,All Active
+77969,"Harris, Bishop and Valdez.LLC",66,Gas carriers,24,1,4,6,All Active,All Active
+79319,Walker Inc.LLC,44,Barge,22,NPS(Nuclear Purpulsion System),6,Navigator (Radio Wave Radar),All Active,Deactivated
+78003,Walker Inc.LLC,59,Container ships,24,1,8,Navigator (Radio Wave Radar),All Active,All Active
+79961,Walker Inc.LLC,70,Offshore ships,16,4,2,4,All Active,Deactivated
+79634,Moyer Group.Ltd,58,Tanker ships,12,1,2,6,Deactivated,All Active
+77400,Miller-Stephens.LLC,53,Bulk carrier ships,20,2,2,4,All Active,Deactivated
+78875,"Weiss, Mayo and Thomas.and Sons",73,Livestock carriers,30,NPS(Nuclear Purpulsion System),6,2,Deactivated,Deactivated
+79313,Smith PLC.PLC,74,Passenger ships,32,1,2,3,All Active,All Active
+78513,Jimenez-Hill.Inc,36,Submarine,26,NPS(Nuclear Purpulsion System),4,3,All Active,Deactivated
+78227,Haas and Sons.Ltd,61,Container ships,28,NPS(Nuclear Purpulsion System),8,2,All Active,Deactivated
+77976,"Harris, Bishop and Valdez.LLC",40,Fishing vessels,34,2,2,Navigator (Radio Wave Radar),All Active,All Active
+79540,Moyer Group.Ltd,59,Container ships,20,3,Dynamic Stablizer,5,Deactivated,Deactivated
+79693,Smith PLC.PLC,50,Submarine,30,2,Dynamic Stablizer,Navigator (Radio Wave Radar),All Active,Deactivated
+77311,Morrison Ltd.Inc,34,Roll-on Roll-Off ships,6,2,2,4,Deactivated,All Active
+77685,Thompson-Harris.Inc,63,Livestock carriers,28,4,4,3,Deactivated,Deactivated
+77613,"Weiss, Mayo and Thomas.and Sons",31,Offshore ships,31,NPS(Nuclear Purpulsion System),Dynamic Stablizer,5,All Active,Deactivated
+78742,Johnson PLC.PLC,71,Tugs,27,4,2,2,All Active,All Active
+77889,Morrison Ltd.Inc,47,Roll-on Roll-Off ships,20,4,4,Navigator (Radio Wave Radar),All Active,Deactivated
+79873,Murphy Group.PLC,63,Passenger ships,8,NPS(Nuclear Purpulsion System),6,2,Deactivated,All Active
+78618,Robinson Inc.PLC,74,Heavy life ships,18,2,4,4,Deactivated,All Active
+77112,Murphy Group.PLC,44,Hovercraft,31,2,2,2,Deactivated,Deactivated
+79763,Murphy Group.PLC,35,Bulk carrier ships,8,4,8,5,All Active,Deactivated
+79209,Morrison Ltd.Inc,74,Dredgers,28,NPS(Nuclear Purpulsion System),Dynamic Stablizer,3,All Active,All Active
+77594,Murphy Group.PLC,68,Bulk carrier ships,30,3,8,5,All Active,All Active
+78646,Thompson-Harris.Inc,47,Bulk carrier ships,9,2,4,4,Deactivated,Deactivated
+77054,Smith PLC.PLC,49,Yacht,26,2,Dynamic Stablizer,5,All Active,All Active
+79290,"Johnson, Thompson and Solis.PLC",65,Container ships,8,4,8,2,All Active,Deactivated
+79377,Robinson Inc.PLC,59,Gas carriers,12,3,2,6,All Active,Deactivated
+77454,"Harris, Bishop and Valdez.LLC",45,Passenger ships,23,4,6,4,Deactivated,All Active
+79608,Robinson Inc.PLC,71,Heavy life ships,19,3,6,6,All Active,All Active
+78267,Moyer Group.Ltd,32,Barge,31,3,8,6,All Active,All Active
+79818,"Lopez, Wells and Diaz.and Sons",57,Hovercraft,13,1,6,Navigator (Radio Wave Radar),Deactivated,All Active
+78948,Smith PLC.PLC,39,Tugs,33,1,4,3,All Active,All Active
+77353,Robinson Inc.PLC,30,Bulk carrier ships,21,4,Dynamic Stablizer,3,All Active,Deactivated
+78568,"Harris, Bishop and Valdez.LLC",61,Tugs,23,3,6,3,Deactivated,All Active
+78760,Ramirez-Pearson.Ltd,35,High-speed craft,21,1,Dynamic Stablizer,5,All Active,Deactivated
+78013,"Weiss, Mayo and Thomas.and Sons",40,Container ships,20,2,4,3,All Active,All Active
+78960,"Johnson, Thompson and Solis.PLC",31,Offshore ships,14,4,8,5,All Active,Deactivated
+79859,"Weiss, Mayo and Thomas.and Sons",72,Canoe,10,1,6,Navigator (Radio Wave Radar),Deactivated,Deactivated
+79401,"Lopez, Wells and Diaz.and Sons",49,Container ships,28,3,8,6,Deactivated,Deactivated
+78081,Ramirez-Pearson.Ltd,52,High-speed craft,29,NPS(Nuclear Purpulsion System),8,4,All Active,All Active
+79187,Johnson PLC.PLC,40,Yacht,24,3,8,5,All Active,All Active
+79922,Smith PLC.PLC,33,Barge,15,2,8,2,Deactivated,Deactivated
+79183,Johnson PLC.PLC,74,Gas carriers,30,3,2,Navigator (Radio Wave Radar),All Active,All Active
+77769,"Martinez, Carson and Baldwin.and Sons",41,Sailboat,33,NPS(Nuclear Purpulsion System),2,6,All Active,Deactivated
+78550,Marshall Ltd.and Sons,55,Hovercraft,17,1,8,6,All Active,Deactivated
+78943,Miller-Stephens.LLC,32,Tanker ships,30,3,4,6,Deactivated,All Active
+78377,Haas and Sons.Ltd,46,Canoe,30,2,Dynamic Stablizer,2,Deactivated,Deactivated
+77123,"Lopez, Wells and Diaz.and Sons",38,Barge,8,2,4,4,All Active,Deactivated
+77352,Johnson PLC.PLC,67,Roll-on Roll-Off ships,17,4,2,6,All Active,All Active
+79735,Murphy Group.PLC,74,Hovercraft,34,1,Dynamic Stablizer,6,Deactivated,All Active
+79723,Miller-Stephens.LLC,69,Tugs,10,NPS(Nuclear Purpulsion System),8,2,All Active,All Active
+79258,Ramirez-Pearson.Ltd,67,Roll-on Roll-Off ships,14,4,6,4,All Active,Deactivated
+79043,Hamilton-Howell.Ltd,30,Passenger ships,10,4,4,2,All Active,All Active
+79282,Haas and Sons.Ltd,35,Submarine,23,2,2,4,All Active,Deactivated
+78350,"Harris, Bishop and Valdez.LLC",40,Canoe,19,4,6,5,Deactivated,All Active
+78573,Murphy Group.PLC,45,Container ships,9,2,Dynamic Stablizer,3,All Active,Deactivated
+78662,Taylor Group.LLC,38,Tugs,28,2,4,Navigator (Radio Wave Radar),Deactivated,All Active
+79494,Hamilton-Howell.Ltd,70,Fishing vessels,11,4,4,5,Deactivated,Deactivated
+77928,Johnson PLC.PLC,67,Passenger ships,35,NPS(Nuclear Purpulsion System),2,Navigator (Radio Wave Radar),Deactivated,Deactivated
+77239,"Harris, Bishop and Valdez.LLC",51,Heavy life ships,32,2,8,5,All Active,Deactivated
+77136,Marshall Ltd.and Sons,34,Tugs,19,3,Dynamic Stablizer,2,Deactivated,All Active
+79870,Marshall Ltd.and Sons,42,Tanker ships,10,3,8,Navigator (Radio Wave Radar),Deactivated,All Active
+77931,"Lopez, Wells and Diaz.and Sons",72,Dredgers,7,3,6,5,All Active,Deactivated
+77487,Jimenez-Hill.Inc,59,Passenger ships,9,4,6,3,All Active,Deactivated
+78370,Haas and Sons.Ltd,70,Sailboat,24,3,8,6,Deactivated,All Active
+78775,"Martinez, Carson and Baldwin.and Sons",71,Heavy life ships,16,4,8,2,Deactivated,All Active
+78095,Thompson-Harris.Inc,57,Dredgers,30,2,8,Navigator (Radio Wave Radar),All Active,All Active
+79806,Murphy Group.PLC,73,Canoe,35,3,6,6,Deactivated,All Active
+78168,Moyer Group.Ltd,51,Submarine,29,2,2,6,All Active,Deactivated
+77113,Hamilton-Howell.Ltd,71,Sailboat,8,4,Dynamic Stablizer,4,Deactivated,All Active
+78996,"Lopez, Wells and Diaz.and Sons",30,Bulk carrier ships,22,3,Dynamic Stablizer,5,All Active,All Active
+79093,Morrison Ltd.Inc,48,Bulk carrier ships,10,1,6,6,All Active,All Active
+77255,Miller-Stephens.LLC,72,Offshore ships,18,3,8,3,All Active,Deactivated
+77324,Morrison Ltd.Inc,31,Fishing vessels,19,1,8,4,Deactivated,Deactivated
+77069,Murphy Group.PLC,61,Sailboat,14,1,4,6,All Active,Deactivated
+77567,Ramirez-Pearson.Ltd,63,Dredgers,18,NPS(Nuclear Purpulsion System),4,Navigator (Radio Wave Radar),Deactivated,Deactivated
+77068,"Harris, Bishop and Valdez.LLC",71,Sailboat,34,2,6,5,Deactivated,Deactivated
+78190,Smith PLC.PLC,59,Container ships,32,4,4,4,All Active,Deactivated
+78690,Haas and Sons.Ltd,40,Roll-on Roll-Off ships,14,4,Dynamic Stablizer,5,Deactivated,All Active
+78208,"Martinez, Carson and Baldwin.and Sons",39,Roll-on Roll-Off ships,20,NPS(Nuclear Purpulsion System),4,4,All Active,Deactivated
+78201,Jimenez-Hill.Inc,63,Yacht,29,4,4,6,All Active,All Active
+79222,Jimenez-Hill.Inc,46,Offshore ships,32,1,Dynamic Stablizer,3,Deactivated,Deactivated
+78719,"Harris, Bishop and Valdez.LLC",53,Container ships,15,1,6,Navigator (Radio Wave Radar),Deactivated,All Active
+77383,Hamilton-Howell.Ltd,40,Sailboat,29,4,6,Navigator (Radio Wave Radar),All Active,All Active
+78473,Murphy Group.PLC,47,Dredgers,16,3,8,6,All Active,All Active
+79486,Murphy Group.PLC,31,Heavy life ships,25,4,8,5,Deactivated,Deactivated
+79712,"Martinez, Carson and Baldwin.and Sons",56,Bulk carrier ships,27,3,6,2,All Active,All Active
+77238,Taylor Group.LLC,72,Fishing vessels,19,4,2,3,Deactivated,Deactivated
+79010,"Lopez, Wells and Diaz.and Sons",49,Roll-on Roll-Off ships,18,2,Dynamic Stablizer,Navigator (Radio Wave Radar),All Active,All Active
+77703,Miller-Stephens.LLC,54,Container ships,13,4,6,6,All Active,Deactivated
+77372,Robinson Inc.PLC,63,Tugs,24,3,2,4,Deactivated,All Active
+78495,Jimenez-Hill.Inc,30,Bulk carrier ships,30,2,Dynamic Stablizer,2,All Active,All Active
+79875,"Lopez, Wells and Diaz.and Sons",40,Passenger ships,12,2,4,3,All Active,Deactivated
+78461,"Lopez, Wells and Diaz.and Sons",55,Heavy life ships,29,3,4,3,All Active,All Active
+79803,Smith PLC.PLC,50,Hovercraft,17,4,6,5,All Active,Deactivated
+79968,Taylor Group.LLC,45,Yacht,27,2,Dynamic Stablizer,3,All Active,Deactivated
+77044,"Johnson, Thompson and Solis.PLC",63,Fishing vessels,25,4,Dynamic Stablizer,5,Deactivated,All Active
+79017,"Johnson, Thompson and Solis.PLC",52,Hovercraft,22,3,6,5,All Active,Deactivated
+78274,Ramirez-Pearson.Ltd,30,Canoe,21,1,2,6,Deactivated,All Active
+79142,Murphy Group.PLC,58,Yacht,23,3,8,5,All Active,Deactivated
+78952,"Johnson, Thompson and Solis.PLC",37,Hovercraft,11,NPS(Nuclear Purpulsion System),4,Navigator (Radio Wave Radar),Deactivated,All Active
+77970,"Harris, Bishop and Valdez.LLC",32,High-speed craft,31,1,4,2,All Active,Deactivated
+79058,Murphy Group.PLC,69,Yacht,9,1,6,2,All Active,All Active
+79237,Miller-Stephens.LLC,30,Sailboat,29,2,Dynamic Stablizer,5,All Active,All Active
+79644,Morrison Ltd.Inc,39,Barge,31,4,Dynamic Stablizer,5,All Active,Deactivated
+79177,"Lopez, Wells and Diaz.and Sons",74,Container ships,17,NPS(Nuclear Purpulsion System),8,4,All Active,Deactivated
+79854,Moyer Group.Ltd,49,Offshore ships,9,3,Dynamic Stablizer,2,All Active,Deactivated
+77979,Walker Inc.LLC,35,Fishing vessels,29,3,Dynamic Stablizer,3,All Active,All Active
+79952,Murphy Group.PLC,74,Tanker ships,15,3,Dynamic Stablizer,3,Deactivated,All Active
+77107,Miller-Stephens.LLC,54,Canoe,17,3,4,6,All Active,All Active
+78685,Johnson PLC.PLC,53,Canoe,34,1,2,4,All Active,All Active
+79603,Hamilton-Howell.Ltd,38,Submarine,29,2,8,3,All Active,Deactivated
+77666,Thompson-Harris.Inc,52,Hovercraft,10,4,8,6,All Active,Deactivated
+79111,Robinson Inc.PLC,51,Barge,27,2,8,3,All Active,All Active
+78242,Morrison Ltd.Inc,71,High-speed craft,8,4,8,5,All Active,Deactivated
+78972,Marshall Ltd.and Sons,57,Hovercraft,33,2,Dynamic Stablizer,2,Deactivated,All Active
+78546,Ramirez-Pearson.Ltd,70,Submarine,16,3,2,2,Deactivated,Deactivated
+77548,"Weiss, Mayo and Thomas.and Sons",73,Submarine,22,1,4,2,Deactivated,All Active
+78658,Moyer Group.Ltd,48,Tanker ships,15,3,8,6,All Active,Deactivated
+77711,"Martinez, Carson and Baldwin.and Sons",45,Bulk carrier ships,7,1,6,3,Deactivated,All Active
+78499,Murphy Group.PLC,71,High-speed craft,24,1,6,5,Deactivated,All Active
+77382,Robinson Inc.PLC,62,Sailboat,11,NPS(Nuclear Purpulsion System),Dynamic Stablizer,6,Deactivated,All Active
+77166,"Johnson, Thompson and Solis.PLC",68,Roll-on Roll-Off ships,21,1,6,5,All Active,Deactivated
+79430,Thompson-Harris.Inc,41,Gas carriers,11,1,Dynamic Stablizer,Navigator (Radio Wave Radar),All Active,Deactivated
+78308,"Johnson, Thompson and Solis.PLC",31,Sailboat,32,NPS(Nuclear Purpulsion System),2,5,Deactivated,Deactivated
+77325,Moyer Group.Ltd,33,Roll-on Roll-Off ships,31,3,2,2,Deactivated,Deactivated
+78770,Miller-Stephens.LLC,41,Canoe,18,2,Dynamic Stablizer,5,Deactivated,All Active
+79851,Morrison Ltd.Inc,56,Heavy life ships,34,2,2,6,Deactivated,Deactivated
+78115,Johnson PLC.PLC,31,Offshore ships,28,NPS(Nuclear Purpulsion System),4,5,Deactivated,Deactivated
+78292,Marshall Ltd.and Sons,72,Sailboat,10,2,4,2,All Active,All Active
+79522,Taylor Group.LLC,31,Dredgers,7,1,4,3,Deactivated,All Active
+77684,Marshall Ltd.and Sons,53,Submarine,19,1,Dynamic Stablizer,6,Deactivated,Deactivated
+78918,Smith PLC.PLC,39,Submarine,10,NPS(Nuclear Purpulsion System),4,2,Deactivated,All Active
+78297,Miller-Stephens.LLC,32,Container ships,21,1,8,4,Deactivated,All Active
+78794,Smith PLC.PLC,45,Yacht,14,NPS(Nuclear Purpulsion System),4,4,Deactivated,All Active
+78696,Marshall Ltd.and Sons,50,Offshore ships,24,3,6,4,Deactivated,Deactivated
+78684,Robinson Inc.PLC,37,Barge,34,NPS(Nuclear Purpulsion System),4,2,Deactivated,Deactivated
+79186,"Martinez, Carson and Baldwin.and Sons",53,Submarine,26,1,4,4,All Active,All Active
+80025,Robinson Inc.PLC,69,Passenger ships,17,3,2,5,Deactivated,Deactivated
+79274,"Johnson, Thompson and Solis.PLC",43,Heavy life ships,20,3,4,2,All Active,Deactivated
+79653,Taylor Group.LLC,45,Roll-on Roll-Off ships,25,3,4,4,All Active,Deactivated
+77210,Ramirez-Pearson.Ltd,41,Offshore ships,24,2,4,5,Deactivated,All Active
+78388,Morrison Ltd.Inc,66,Offshore ships,12,1,Dynamic Stablizer,2,All Active,All Active
+78062,Miller-Stephens.LLC,60,Submarine,12,NPS(Nuclear Purpulsion System),8,5,All Active,All Active
+79774,"Johnson, Thompson and Solis.PLC",32,Yacht,20,3,2,Navigator (Radio Wave Radar),Deactivated,All Active
+78738,Morrison Ltd.Inc,58,Container ships,35,2,4,6,Deactivated,Deactivated
+78209,Thompson-Harris.Inc,34,High-speed craft,9,3,4,3,All Active,Deactivated
+77495,Ramirez-Pearson.Ltd,46,Tugs,32,4,6,3,Deactivated,Deactivated
+79621,"Martinez, Carson and Baldwin.and Sons",68,Yacht,16,NPS(Nuclear Purpulsion System),6,4,Deactivated,All Active
+79395,Robinson Inc.PLC,34,Livestock carriers,27,2,6,4,All Active,Deactivated
+79327,"Lopez, Wells and Diaz.and Sons",63,Barge,11,NPS(Nuclear Purpulsion System),8,3,All Active,All Active
+78995,"Lopez, Wells and Diaz.and Sons",53,Gas carriers,21,NPS(Nuclear Purpulsion System),Dynamic Stablizer,6,Deactivated,Deactivated
+77863,"Johnson, Thompson and Solis.PLC",57,Canoe,15,NPS(Nuclear Purpulsion System),6,5,Deactivated,Deactivated
+77079,Morrison Ltd.Inc,65,High-speed craft,20,3,Dynamic Stablizer,Navigator (Radio Wave Radar),Deactivated,Deactivated
+77368,Taylor Group.LLC,58,Yacht,19,4,8,3,All Active,All Active
+77111,Hamilton-Howell.Ltd,69,Heavy life ships,29,2,2,Navigator (Radio Wave Radar),Deactivated,All Active
+77322,"Lopez, Wells and Diaz.and Sons",51,Fishing vessels,26,4,8,2,All Active,Deactivated
+77267,Smith PLC.PLC,70,Sailboat,22,3,2,4,Deactivated,All Active
+79649,Haas and Sons.Ltd,72,Yacht,7,2,6,3,Deactivated,All Active
+79982,"Martinez, Carson and Baldwin.and Sons",70,Canoe,29,2,8,5,All Active,Deactivated
+79446,Johnson PLC.PLC,35,Tugs,14,4,6,3,All Active,Deactivated
+77744,"Martinez, Carson and Baldwin.and Sons",61,Yacht,20,3,8,2,All Active,All Active
+78334,Thompson-Harris.Inc,58,Container ships,13,3,Dynamic Stablizer,Navigator (Radio Wave Radar),Deactivated,All Active
+78661,Jimenez-Hill.Inc,63,Fishing vessels,27,3,8,4,All Active,All Active
+77879,Jimenez-Hill.Inc,44,Offshore ships,31,1,8,5,All Active,Deactivated
+77862,Ramirez-Pearson.Ltd,64,Sailboat,22,NPS(Nuclear Purpulsion System),Dynamic Stablizer,4,All Active,All Active
+78204,"Johnson, Thompson and Solis.PLC",38,Tanker ships,11,3,2,3,All Active,All Active
+77547,Jimenez-Hill.Inc,75,Hovercraft,26,1,Dynamic Stablizer,3,All Active,All Active
+79151,"Harris, Bishop and Valdez.LLC",43,Roll-on Roll-Off ships,25,2,4,4,Deactivated,All Active
+77278,"Harris, Bishop and Valdez.LLC",36,Dredgers,18,3,8,Navigator (Radio Wave Radar),All Active,All Active
+78130,Haas and Sons.Ltd,69,Fishing vessels,13,NPS(Nuclear Purpulsion System),4,4,All Active,All Active
+79901,Taylor Group.LLC,74,Yacht,17,2,4,Navigator (Radio Wave Radar),All Active,Deactivated
+77395,Ramirez-Pearson.Ltd,66,Gas carriers,14,4,2,3,Deactivated,Deactivated
+78978,Marshall Ltd.and Sons,73,Fishing vessels,17,2,6,5,All Active,Deactivated
+79511,Smith PLC.PLC,40,Container ships,28,2,4,6,Deactivated,Deactivated
+78230,Johnson PLC.PLC,67,Container ships,23,2,Dynamic Stablizer,6,Deactivated,All Active
+78269,Morrison Ltd.Inc,42,Tugs,13,1,Dynamic Stablizer,4,Deactivated,All Active
+78166,Hamilton-Howell.Ltd,38,Sailboat,7,2,4,5,All Active,All Active
+78463,Johnson PLC.PLC,40,Yacht,14,2,2,Navigator (Radio Wave Radar),Deactivated,All Active
+78516,Taylor Group.LLC,38,Tanker ships,29,NPS(Nuclear Purpulsion System),Dynamic Stablizer,Navigator (Radio Wave Radar),Deactivated,All Active
+77986,Johnson PLC.PLC,35,High-speed craft,33,2,4,Navigator (Radio Wave Radar),All Active,Deactivated
+77675,Walker Inc.LLC,66,High-speed craft,15,2,Dynamic Stablizer,2,Deactivated,Deactivated
+77878,Haas and Sons.Ltd,55,Barge,23,3,2,4,Deactivated,Deactivated
+77884,Jimenez-Hill.Inc,38,Yacht,21,1,Dynamic Stablizer,6,Deactivated,All Active
+79201,Moyer Group.Ltd,70,Roll-on Roll-Off ships,8,NPS(Nuclear Purpulsion System),6,6,Deactivated,All Active
+77224,Miller-Stephens.LLC,45,Submarine,35,1,8,3,All Active,Deactivated
+77024,"Lopez, Wells and Diaz.and Sons",60,Dredgers,24,2,2,Navigator (Radio Wave Radar),Deactivated,Deactivated
+77745,Robinson Inc.PLC,75,Heavy life ships,13,1,2,2,Deactivated,Deactivated
+77629,Hamilton-Howell.Ltd,55,Livestock carriers,28,4,2,Navigator (Radio Wave Radar),All Active,All Active
+78150,Thompson-Harris.Inc,66,Bulk carrier ships,15,1,2,Navigator (Radio Wave Radar),All Active,All Active
+79612,Marshall Ltd.and Sons,33,High-speed craft,33,1,Dynamic Stablizer,2,All Active,All Active
+79409,Walker Inc.LLC,68,Heavy life ships,34,1,4,2,All Active,Deactivated
+79965,Haas and Sons.Ltd,41,Bulk carrier ships,17,3,2,5,Deactivated,All Active
+79345,Marshall Ltd.and Sons,70,Canoe,33,2,Dynamic Stablizer,3,All Active,All Active
+77490,"Weiss, Mayo and Thomas.and Sons",55,Dredgers,33,1,6,4,Deactivated,All Active
+77139,Thompson-Harris.Inc,33,Container ships,30,NPS(Nuclear Purpulsion System),6,4,Deactivated,All Active
+77728,Robinson Inc.PLC,36,Barge,9,3,6,Navigator (Radio Wave Radar),All Active,All Active
+77208,"Harris, Bishop and Valdez.LLC",51,Tugs,33,4,Dynamic Stablizer,5,Deactivated,Deactivated
+78653,Haas and Sons.Ltd,38,Livestock carriers,25,4,8,2,All Active,Deactivated
+78194,Miller-Stephens.LLC,51,Tugs,8,4,2,2,Deactivated,All Active
+77201,Walker Inc.LLC,44,Barge,13,1,2,2,Deactivated,All Active
+78585,Thompson-Harris.Inc,67,Livestock carriers,34,3,4,Navigator (Radio Wave Radar),All Active,Deactivated
+77545,Walker Inc.LLC,70,Gas carriers,22,4,2,3,Deactivated,All Active
+77828,Taylor Group.LLC,34,Submarine,14,2,6,5,All Active,All Active
+77411,Ramirez-Pearson.Ltd,50,Gas carriers,11,NPS(Nuclear Purpulsion System),8,4,Deactivated,Deactivated
+77143,Morrison Ltd.Inc,41,Sailboat,20,NPS(Nuclear Purpulsion System),8,2,All Active,Deactivated
+79923,Jimenez-Hill.Inc,60,Bulk carrier ships,28,3,4,5,All Active,All Active
+79989,Robinson Inc.PLC,46,Offshore ships,23,1,8,3,Deactivated,All Active
+79214,Thompson-Harris.Inc,44,Tugs,15,1,Dynamic Stablizer,Navigator (Radio Wave Radar),Deactivated,Deactivated
+79858,Robinson Inc.PLC,40,Gas carriers,29,1,2,6,All Active,Deactivated
+79846,Smith PLC.PLC,47,Canoe,22,NPS(Nuclear Purpulsion System),4,2,Deactivated,All Active
+79805,"Johnson, Thompson and Solis.PLC",65,Passenger ships,23,3,Dynamic Stablizer,4,All Active,Deactivated
+78218,Miller-Stephens.LLC,59,Gas carriers,20,2,4,5,Deactivated,All Active
+78045,Taylor Group.LLC,50,Container ships,29,2,8,6,Deactivated,Deactivated
+79126,"Martinez, Carson and Baldwin.and Sons",37,Barge,25,4,4,3,Deactivated,Deactivated
+77620,Hamilton-Howell.Ltd,67,Barge,23,2,4,Navigator (Radio Wave Radar),All Active,All Active
+78861,Smith PLC.PLC,73,Sailboat,15,NPS(Nuclear Purpulsion System),2,6,Deactivated,All Active
+78408,"Martinez, Carson and Baldwin.and Sons",74,Tanker ships,29,NPS(Nuclear Purpulsion System),8,3,Deactivated,All Active
+77482,Murphy Group.PLC,47,Gas carriers,23,3,4,4,All Active,All Active
+79278,Thompson-Harris.Inc,73,Fishing vessels,14,1,2,5,All Active,Deactivated
+79695,"Weiss, Mayo and Thomas.and Sons",50,Offshore ships,16,1,6,2,Deactivated,All Active
+77960,Moyer Group.Ltd,32,Dredgers,21,2,8,4,Deactivated,Deactivated
+78213,Morrison Ltd.Inc,74,Bulk carrier ships,19,2,Dynamic Stablizer,2,All Active,Deactivated
+78548,Ramirez-Pearson.Ltd,52,Container ships,26,3,2,6,Deactivated,All Active
+78076,Morrison Ltd.Inc,53,Offshore ships,18,NPS(Nuclear Purpulsion System),4,6,All Active,All Active
+79892,Smith PLC.PLC,52,Barge,29,NPS(Nuclear Purpulsion System),Dynamic Stablizer,3,Deactivated,Deactivated
+78048,Thompson-Harris.Inc,44,Bulk carrier ships,32,1,4,2,All Active,Deactivated
+77957,Taylor Group.LLC,51,Roll-on Roll-Off ships,16,1,6,2,All Active,All Active
+78379,Murphy Group.PLC,30,Sailboat,13,4,6,2,All Active,All Active
+79635,"Johnson, Thompson and Solis.PLC",71,Fishing vessels,24,2,Dynamic Stablizer,3,All Active,All Active
+77302,"Harris, Bishop and Valdez.LLC",36,Heavy life ships,34,4,4,Navigator (Radio Wave Radar),All Active,All Active
+78538,Moyer Group.Ltd,43,Fishing vessels,8,3,Dynamic Stablizer,6,Deactivated,All Active
+77604,Robinson Inc.PLC,37,Hovercraft,22,3,6,6,Deactivated,Deactivated
+79891,Hamilton-Howell.Ltd,48,Hovercraft,19,1,2,3,Deactivated,All Active
+79842,"Lopez, Wells and Diaz.and Sons",54,Canoe,12,4,Dynamic Stablizer,2,Deactivated,All Active
+77319,Johnson PLC.PLC,42,Sailboat,25,NPS(Nuclear Purpulsion System),2,2,Deactivated,Deactivated
+78478,"Martinez, Carson and Baldwin.and Sons",43,Heavy life ships,24,2,6,2,All Active,All Active
+79697,Haas and Sons.Ltd,60,Dredgers,23,3,8,4,All Active,Deactivated
+78113,"Martinez, Carson and Baldwin.and Sons",63,Yacht,26,3,8,3,Deactivated,Deactivated
+78386,Morrison Ltd.Inc,38,Gas carriers,30,4,6,5,Deactivated,Deactivated
+78854,Jimenez-Hill.Inc,42,Gas carriers,20,NPS(Nuclear Purpulsion System),6,2,Deactivated,Deactivated
+77619,"Johnson, Thompson and Solis.PLC",63,Heavy life ships,35,3,8,6,All Active,All Active
+79425,Smith PLC.PLC,41,Bulk carrier ships,13,NPS(Nuclear Purpulsion System),8,6,Deactivated,Deactivated
+79350,Morrison Ltd.Inc,33,Canoe,21,1,6,5,All Active,All Active
+77691,Murphy Group.PLC,74,Dredgers,7,3,2,6,All Active,Deactivated
+78489,Moyer Group.Ltd,63,Gas carriers,22,2,6,6,Deactivated,Deactivated
+78170,"Martinez, Carson and Baldwin.and Sons",59,Yacht,29,3,Dynamic Stablizer,2,All Active,Deactivated
+79926,Walker Inc.LLC,72,Heavy life ships,16,1,6,6,All Active,All Active
+77598,Moyer Group.Ltd,68,Offshore ships,22,1,4,3,All Active,Deactivated
+77934,Miller-Stephens.LLC,50,Passenger ships,30,4,6,Navigator (Radio Wave Radar),All Active,Deactivated
+78108,Thompson-Harris.Inc,55,Gas carriers,21,3,4,4,Deactivated,All Active
+78026,Hamilton-Howell.Ltd,40,Dredgers,13,2,2,5,Deactivated,Deactivated
+78110,Ramirez-Pearson.Ltd,48,Livestock carriers,9,4,4,5,All Active,All Active
+78998,"Lopez, Wells and Diaz.and Sons",31,Dredgers,17,4,8,5,Deactivated,Deactivated
+77764,"Johnson, Thompson and Solis.PLC",58,Submarine,12,NPS(Nuclear Purpulsion System),2,2,All Active,Deactivated
+79234,Taylor Group.LLC,68,Submarine,28,1,Dynamic Stablizer,3,Deactivated,All Active
+77801,"Martinez, Carson and Baldwin.and Sons",31,Barge,23,NPS(Nuclear Purpulsion System),4,5,Deactivated,All Active
+79198,"Lopez, Wells and Diaz.and Sons",74,Roll-on Roll-Off ships,14,3,Dynamic Stablizer,4,All Active,All Active
+78630,"Johnson, Thompson and Solis.PLC",39,Container ships,15,3,6,5,Deactivated,All Active
+79820,Ramirez-Pearson.Ltd,35,Barge,8,3,4,6,Deactivated,Deactivated
+78639,Taylor Group.LLC,70,Fishing vessels,27,NPS(Nuclear Purpulsion System),4,6,All Active,Deactivated
+79676,"Johnson, Thompson and Solis.PLC",50,Heavy life ships,24,3,2,6,All Active,Deactivated
+79642,"Harris, Bishop and Valdez.LLC",60,Tanker ships,11,1,8,4,All Active,Deactivated
+79417,"Martinez, Carson and Baldwin.and Sons",60,Tugs,7,4,8,4,All Active,Deactivated
+77187,Moyer Group.Ltd,75,Livestock carriers,19,2,8,3,Deactivated,Deactivated
+78787,Miller-Stephens.LLC,58,Gas carriers,23,4,8,5,All Active,Deactivated
+79285,Robinson Inc.PLC,48,Heavy life ships,30,1,8,3,All Active,Deactivated
+78154,Marshall Ltd.and Sons,45,Tugs,34,4,2,5,Deactivated,Deactivated
+77386,Marshall Ltd.and Sons,60,Passenger ships,11,2,Dynamic Stablizer,Navigator (Radio Wave Radar),Deactivated,Deactivated
+77542,Haas and Sons.Ltd,74,Yacht,24,4,Dynamic Stablizer,3,Deactivated,All Active
+79509,Hamilton-Howell.Ltd,33,Bulk carrier ships,16,1,6,6,Deactivated,All Active
+77408,Thompson-Harris.Inc,46,Canoe,24,4,Dynamic Stablizer,4,All Active,Deactivated
+79661,"Harris, Bishop and Valdez.LLC",54,Fishing vessels,18,1,6,Navigator (Radio Wave Radar),All Active,All Active
+78189,Thompson-Harris.Inc,52,Dredgers,14,NPS(Nuclear Purpulsion System),8,4,Deactivated,Deactivated
+78284,Robinson Inc.PLC,46,Offshore ships,15,NPS(Nuclear Purpulsion System),4,5,Deactivated,All Active
+79020,Walker Inc.LLC,64,Livestock carriers,9,3,Dynamic Stablizer,3,All Active,Deactivated
+77877,Ramirez-Pearson.Ltd,73,Gas carriers,35,3,8,5,Deactivated,Deactivated
+77100,Robinson Inc.PLC,62,Canoe,28,3,2,2,Deactivated,All Active
+78394,Taylor Group.LLC,55,Hovercraft,27,2,2,2,Deactivated,Deactivated
+77154,Miller-Stephens.LLC,50,Canoe,17,4,2,4,All Active,All Active
+79896,Taylor Group.LLC,55,Sailboat,26,NPS(Nuclear Purpulsion System),6,Navigator (Radio Wave Radar),All Active,Deactivated
+79356,"Martinez, Carson and Baldwin.and Sons",55,Dredgers,27,3,8,6,All Active,All Active
+78417,Thompson-Harris.Inc,56,Gas carriers,11,3,8,Navigator (Radio Wave Radar),All Active,All Active
+79578,Hamilton-Howell.Ltd,42,Roll-on Roll-Off ships,21,3,6,6,All Active,Deactivated
+79808,Ramirez-Pearson.Ltd,71,Tugs,23,4,Dynamic Stablizer,Navigator (Radio Wave Radar),All Active,Deactivated
+79027,Taylor Group.LLC,33,Offshore ships,34,NPS(Nuclear Purpulsion System),6,4,All Active,Deactivated
+79257,"Johnson, Thompson and Solis.PLC",72,Bulk carrier ships,20,3,8,2,Deactivated,All Active
+79976,"Martinez, Carson and Baldwin.and Sons",64,Heavy life ships,16,3,4,3,All Active,Deactivated
+77291,Marshall Ltd.and Sons,70,Offshore ships,24,NPS(Nuclear Purpulsion System),6,4,All Active,All Active
+78774,Jimenez-Hill.Inc,72,Sailboat,28,1,6,6,All Active,All Active
+77294,"Martinez, Carson and Baldwin.and Sons",55,Tugs,28,4,4,3,Deactivated,All Active
+77094,Taylor Group.LLC,30,High-speed craft,18,2,4,Navigator (Radio Wave Radar),All Active,All Active

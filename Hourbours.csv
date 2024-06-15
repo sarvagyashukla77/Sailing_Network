@@ -1,0 +1,127 @@
+id,name,country,type,no_of_employee,in_military_use,govenment_aqcusition
+18629,Port of Singapore,Singapore,Marine harbor,97,In Military Use,Private Port
+18698,Port of Shanghai,China,Natural harbor,105,Both Pursose,Public Port
+18519,Port of Hong Kong,China,Sea harbor,123,In Military Use,Private Port
+18522,Port of Rotterdam,Netherlands,River harbor,132,Both Pursose,Government Owned
+18538,Port of Busan,South Korea,Canal harborCommercial harbor,90,Both Pursose,Government Owned
+18672,Port of Ningbo-Zhoushan,China,River harbor,145,Both Pursose,Non Government
+18549,Port of Guangzhou,China,Canal harborCommercial harbor,143,In Military Use,Government Owned
+18654,Port of Qingdao,China,Fishery harbor,80,Not In Militry Use,Non Government
+18643,Port of Tianjin,China,Natural harbor,72,Not In Militry Use,Public Port
+18645,Port of Dubai,United Arab Emirates,Military harbor,92,Both Pursose,Non Government
+18615,Port of Antwerp,Belgium,River harbor,118,Not In Militry Use,Private Port
+18561,Port of Los Angeles,United States,Artificial harbor,74,Not In Militry Use,Non Government
+18500,Port of Hamburg,Germany,River harbor,87,In Military Use,Public Port
+18614,Port of Dalian,China,Military harbor,70,Both Pursose,Government Owned
+18513,Port of Kaohsiung,Taiwan,Sea harbor,150,Both Pursose,Private Port
+18680,Port of Long Beach,United States,Artificial harbor,152,Both Pursose,Public Port
+18670,Port of New York and New Jersey,United States,Canal harborCommercial harbor,153,Both Pursose,Non Government
+18564,Port of Shenzhen,China,Sea harbor,77,Not In Militry Use,Government Owned
+18542,Port of Houston,United States,Artificial harbor,153,Both Pursose,Non Government
+18537,Port of Tanjung Pelepas,Malaysia,Canal harborCommercial harbor,116,Not In Militry Use,Private Port
+18588,Port of Jebel Ali,United Arab Emirates,Canal harborCommercial harbor,153,Both Pursose,Government Owned
+18551,Port of Tangshan,China,Fishery harbor,126,In Military Use,Private Port
+18529,Port of Santos,Brazil,River harbor,123,Both Pursose,Government Owned
+18595,Port of Khor Fakkan,United Arab Emirates,Sea harbor,137,Not In Militry Use,Public Port
+18652,Port of Mumbai,India,Artificial harbor,121,In Military Use,Non Government
+18528,Port of Valencia,Spain,Natural harbor,70,In Military Use,Public Port
+18606,Port of Genoa,Italy,Canal harborCommercial harbor,87,In Military Use,Non Government
+18530,Port of Laem Chabang,Thailand,Sea harbor,153,Not In Militry Use,Government Owned
+18575,Port of Barcelona,Spain,River harbor,95,Not In Militry Use,Public Port
+18623,Port of Tokyo,Japan,Semi natural harbor,137,Both Pursose,Government Owned
+18598,Port of Salalah,Oman,River harbor,85,Both Pursose,Non Government
+18669,Port of Bremerhaven,Germany,Canal harborCommercial harbor,124,Not In Militry Use,Non Government
+18621,Port of Jeddah,Saudi Arabia,Military harbor,114,In Military Use,Non Government
+18668,Port of Algeciras,Spain,River harbor,86,In Military Use,Public Port
+18521,Port of Port Klang,Malaysia,Canal harborCommercial harbor,104,In Military Use,Government Owned
+18658,Port of Ho Chi Minh City,Vietnam,Semi natural harbor,96,In Military Use,Public Port
+18700,Port of Vung Tau,Indonesia,Marine harbor,138,Not In Militry Use,Private Port
+18612,Port of Tanjung Priok,Egypt,River harbor,149,Both Pursose,Non Government
+18563,Port of Port Said,India,Fishery harbor,143,Not In Militry Use,Private Port
+18693,Port of Jawaharlal Nehru,Italy,Artificial harbor,82,Not In Militry Use,Non Government
+18673,Port of Gioia Tauro,Colombia,Natural harbor,144,In Military Use,Private Port
+18604,Port of Cartagena,Egypt,Artificial harbor,153,In Military Use,Private Port
+18650,Port of Alexandria,South Africa,Marine harbor,146,In Military Use,Private Port
+18661,Port of Durban,Panama,Fishery harbor,100,Both Pursose,Government Owned
+18548,Port of Colon,Germany,Semi natural harbor,112,Not In Militry Use,Public Port
+18631,Port of Hamburg,United States,Natural harbor,102,Both Pursose,Government Owned
+18543,Port of Los Angeles,United Arab Emirates,Natural harbor,134,In Military Use,Private Port
+18536,Port of Dubai,China,Artificial harbor,79,In Military Use,Government Owned
+18593,Port of Shanghai,China,Marine harbor,88,Both Pursose,Public Port
+18501,Port of Ningbo-Zhoushan,South Korea,Artificial harbor,70,Not In Militry Use,Private Port
+18592,Port of Busan,Singapore,Marine harbor,133,Not In Militry Use,Government Owned
+18683,Port of Singapore,China,Harbors of refuge,96,Not In Militry Use,Non Government
+18567,Port of Qingdao,China,Artificial harbor,150,Both Pursose,Public Port
+18599,Port of Tianjin,Netherlands,Harbors of refuge,152,In Military Use,Public Port
+18585,Port of Rotterdam,China,Canal harborCommercial harbor,93,Both Pursose,Government Owned
+18582,Port of Hong Kong,China,River harbor,113,Not In Militry Use,Non Government
+18628,Port of Antwerp,Belgium,Semi natural harbor,83,Not In Militry Use,Public Port
+18574,Port of Dalian,China,Canal harborCommercial harbor,149,Not In Militry Use,Government Owned
+18665,Port of Guangzhou,United States,Sea harbor,119,Both Pursose,Public Port
+18524,Port of Long Beach,Malaysia,Military harbor,128,Both Pursose,Public Port
+18545,Port of Tangshan,Germany,Fishery harbor,103,In Military Use,Public Port
+18579,Port of Jebel Ali,China,Harbors of refuge,79,Both Pursose,Government Owned
+18556,Port of Kaohsiung,United States,Canal harborCommercial harbor,84,Both Pursose,Private Port
+18627,Port of Santos,China,Harbors of refuge,76,Not In Militry Use,Government Owned
+18594,Port of Tianjin,Taiwan,Military harbor,99,In Military Use,Government Owned
+18569,Port of Rotterdam,Netherlands,Semi natural harbor,120,Both Pursose,Government Owned
+18531,Port of Singapore,United Arab Emirates,Harbors of refuge,130,Not In Militry Use,Non Government
+18632,Port of Shanghai,Brazil,Natural harbor,72,Both Pursose,Private Port
+18562,Port of Ningbo-Zhoushan,China,Artificial harbor,97,Both Pursose,Public Port
+18559,Port of Busan,Netherlands,Canal harborCommercial harbor,138,In Military Use,Non Government
+18664,Port of Hong Kong,Singapore,Sea harbor,152,Both Pursose,Public Port
+18509,Port of Dubai,China,Artificial harbor,117,In Military Use,Government Owned
+18572,Port of Guangzhou,China,Military harbor,111,In Military Use,Government Owned
+18511,Port of Qingdao,South Korea,Artificial harbor,106,Both Pursose,Public Port
+18613,Port of Antwerp,China,Canal harborCommercial harbor,114,In Military Use,Non Government
+18653,Port of Los Angeles,United Arab Emirates,Natural harbor,90,Not In Militry Use,Private Port
+18638,Port of Tanjung Pelepas,China,Harbors of refuge,152,In Military Use,Non Government
+18691,Port of Hamburg,China,Artificial harbor,78,Not In Militry Use,Private Port
+18553,Port of Dalian,Belgium,Marine harbor,154,Both Pursose,Public Port
+18603,Port of New York and New Jersey,United States,Artificial harbor,106,In Military Use,Private Port
+18625,Port of Shenzhen,Malaysia,Canal harborCommercial harbor,80,In Military Use,Government Owned
+18554,Port of Tianjin,Germany,Semi natural harbor,108,In Military Use,Public Port
+18639,Port of Kaohsiung,China,Canal harborCommercial harbor,142,Not In Militry Use,Public Port
+18555,Port of Rotterdam,United States,Semi natural harbor,78,Both Pursose,Non Government
+18584,Port of Jebel Ali,United Arab Emirates,Harbors of refuge,141,Both Pursose,Non Government
+18684,Port of Santos,Taiwan,River harbor,92,Both Pursose,Government Owned
+18541,Port of Tangshan,China,Artificial harbor,77,Not In Militry Use,Public Port
+18620,Port of Tokyo,Brazil,Fishery harbor,82,Both Pursose,Private Port
+18686,Port of Long Beach,Netherlands,Fishery harbor,70,Not In Militry Use,Non Government
+18602,Port of Dubai,Malaysia,Semi natural harbor,150,Not In Militry Use,Public Port
+18504,Port of Shanghai,United States,Military harbor,154,Both Pursose,Government Owned
+18503,Port of Ningbo-Zhoushan,China,Natural harbor,155,In Military Use,Non Government
+18547,Port of Busan,United Arab Emirates,Harbors of refuge,109,Not In Militry Use,Government Owned
+18583,Port of Hong Kong,Japan,Canal harborCommercial harbor,144,Both Pursose,Non Government
+18571,Port of Qingdao,United States,Fishery harbor,84,In Military Use,Public Port
+18605,Port of Tianjin,United Arab Emirates,Harbors of refuge,98,In Military Use,Non Government
+18657,Port of Singapore,China,Military harbor,140,Not In Militry Use,Public Port
+18662,Port of Antwerp,China,Artificial harbor,138,Both Pursose,Private Port
+18516,Port of Guangzhou,South Korea,Natural harbor,98,Not In Militry Use,Private Port
+18694,Port of Los Angeles,Singapore,Fishery harbor,120,In Military Use,Public Port
+18651,Port of Dalian,Belgium,Fishery harbor,136,Not In Militry Use,Public Port
+18589,Port of Hamburg,China,Marine harbor,87,In Military Use,Public Port
+18646,Port of Jebel Ali,United States,Fishery harbor,104,Both Pursose,Government Owned
+18656,Port of Kaohsiung,China,Artificial harbor,147,Not In Militry Use,Government Owned
+18540,Port of Tangshan,Germany,Marine harbor,99,In Military Use,Private Port
+18688,Port of Santos,United Arab Emirates,River harbor,79,Both Pursose,Private Port
+18581,Port of Rotterdam,Taiwan,River harbor,155,Both Pursose,Non Government
+18565,Port of Tanjung Pelepas,China,River harbor,101,Both Pursose,Non Government
+18591,Port of New York and New Jersey,Isle of Man,Military harbor,95,Not In Militry Use,Private Port
+18539,Port of Shenzhen,Macao,Semi natural harbor,147,Both Pursose,Public Port
+18676,Port of Dubai,Sudan,River harbor,81,In Military Use,Non Government
+18675,Port of Shanghai,Guatemala,Sea harbor,99,In Military Use,Public Port
+18667,Port of Ningbo-Zhoushan,Belarus,Natural harbor,139,Both Pursose,Private Port
+18695,Port of Busan,Panama,Sea harbor,73,In Military Use,Non Government
+18590,Port of Hong Kong,Mozambique,Canal harborCommercial harbor,154,Both Pursose,Non Government
+18681,Port of Qingdao,Morocco,Artificial harbor,93,Not In Militry Use,Government Owned
+18640,Port of Tianjin,Czech Republic,Canal harborCommercial harbor,126,Both Pursose,Non Government
+18687,Port of Antwerp,South Africa,Harbors of refuge,121,Both Pursose,Non Government
+18624,Port of Guangzhou,Bouvet Island (Bouvetoya),Harbors of refuge,103,In Military Use,Public Port
+18576,Port of Los Angeles,Nepal,Fishery harbor,131,In Military Use,Public Port
+18608,Port of Dalian,Spain,Sea harbor,108,Both Pursose,Public Port
+18641,Port of Hamburg,Iraq,Fishery harbor,79,In Military Use,Private Port
+18671,Port of Jebel Ali,Nicaragua,Fishery harbor,81,In Military Use,Private Port
+18552,Port of Kaohsiung,Libyan Arab Jamahiriya,Artificial harbor,89,In Military Use,Private Port
+18560,Port of Tangshan,Vietnam,Natural harbor,74,Both Pursose,Government Owned
+18510,Port of Santos,Georgia,Military harbor,81,Both Pursose,Non Government
